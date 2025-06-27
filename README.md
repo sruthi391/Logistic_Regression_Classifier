@@ -22,7 +22,3 @@ A binary classification project using Logistic Regression on the Breast Cancer W
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 
-  - **One-vs-Rest (OvR)** strategy (default in scikit-learn)
-  - **Softmax / Multinomial Logistic Regression** for directly predicting multi-class probabilities
-
----
