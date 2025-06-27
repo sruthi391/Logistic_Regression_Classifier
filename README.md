@@ -15,6 +15,15 @@ A binary classification project using Logistic Regression on the Breast Cancer W
 
 ---
 
+## 🚀 How to Run the Code
+
+1. **Install dependencies** (if not already installed):
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn
+
+---
+
 # 💬 Logistic Regression Interview Questions
 
 This section includes commonly asked interview questions on logistic regression with concise and clear answers to help you prepare.
@@ -87,10 +96,3 @@ A 2x2 table showing prediction results:
   - **Softmax / Multinomial Logistic Regression** for directly predicting multi-class probabilities
 
 ---
-
-## 🚀 How to Run the Code
-
-1. **Install dependencies** (if not already installed):
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
