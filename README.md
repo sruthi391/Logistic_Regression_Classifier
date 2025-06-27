@@ -24,7 +24,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ---
 
-# 💬 Logistic Regression Interview Questions
+## 💬 Logistic Regression Interview Questions
 
 This section includes commonly asked interview questions on logistic regression with concise and clear answers to help you prepare.
 
